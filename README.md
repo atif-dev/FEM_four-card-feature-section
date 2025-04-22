@@ -40,7 +40,7 @@ This is a solution to the [Four card feature section on Frontend Mentor](https:/
   - Built with HTML Semantic Elements.
   - Checked Responsiveness for multiple devices using LT Browser.
   - See a solution of someone to find how grid-row and grid-column property is used.
-  - Ask chatGPT to find out if something is not right in code.
+  - chatGPT: to undestand grid-row,grid-column and to find out if something is not right in code.
     
 ### Continued development
 
