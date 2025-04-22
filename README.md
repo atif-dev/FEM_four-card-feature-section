@@ -26,14 +26,14 @@ This is a solution to the [Four card feature section on Frontend Mentor](https:/
 
 ### Screenshots
 
-![PC View]()
-![Mobile view]()
+![PC View](https://github.com/atif-dev/FEM_four-card-feature-section/blob/main/screenshots/Screen%201440%20by%20900.png?raw=true)
+![Mobile view](https://github.com/atif-dev/FEM_four-card-feature-section/blob/main/screenshots/iPhone%2015%20Pro%20Max.png?raw=true)
 
 ### Links
 
-- Frontend Mentor solution url: 
-- GitHub repo :
-- Live Site URL:
+- Frontend Mentor solution url: https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-atXp0sNtvp
+- GitHub repo : https://github.com/atif-dev/FEM_four-card-feature-section
+- Live Site URL: https://atif-dev.github.io/FEM_four-card-feature-section/
 
 ## My process
 
